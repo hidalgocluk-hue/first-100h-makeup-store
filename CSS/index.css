@@ -38,7 +38,7 @@ NAVBAR
 
   /* logo como capa */
 
-  background-image: url(../Imagenes/logo.png);
+  background-image: url(../images/logo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 500px;
@@ -337,7 +337,7 @@ background:#d63384;
 /* ================= PROMO ================= */
 .promo{
   min-height: 250px;
-  background: url("../Imagenes/banerpromo.png") no-repeat center/cover;
+  background: url("../images/banerpromo.png") no-repeat center/cover;
   margin: 0 10%;
   border-radius: 20px;
 }
